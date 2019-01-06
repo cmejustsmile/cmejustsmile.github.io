@@ -1,0 +1,19 @@
+- name: Optimizing FPGA Accelerator
+  descr: "This project focused on utilizing FPGA as an accelerator to decrease the time usage and energy consumption.                   Required Knowledge: Xilinx HLS and SDS directives, FPGA Architecture
+  Environment: Xilinx Zedboard, Xilinx SDAccel/SDSoC IDE, Ubuntu
+  Target Program: Handwriteen Number/Hangul Recognizer DCNN program
+  Key Commitment: Optimizing code structure to increase parallel computation on FPGA accelerator
+  Paper:'FPGA-Based Deep Convolutional Neural Network Accelerator Design Techniques for the Handwritten Number Recognizer', Advanced Science Journal"
+  image: #pong.png
+  github: #https://github.com/renyuanz/leonids
+
+- name: Encoder/Decoder
+
+
+  # name: Creating Music
+
+
+  # name: Building Speed Controllable Robot
+
+
+  #name: Chatbot as a helper to become a fan in slack

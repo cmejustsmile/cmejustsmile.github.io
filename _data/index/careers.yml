@@ -1,0 +1,11 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name: Cots Technology
+  link: http://www.cotstech.com/
+  date: June 2018 - August 2018
+  job: Programming Internship
+
+- name: Embedded System Lab in Handong Global University
+  link: pro.handong.edu/yikang/
+  date: 2017-2018
+  job: Research Assistant
