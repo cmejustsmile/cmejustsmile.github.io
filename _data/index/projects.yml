@@ -1,7 +1,0 @@
-- name: Optimizing FPGA Accelerator
-  descr: "This project focused on utilizing FPGA as an accelerator to decrease the time usage and energy consumption.                   Required Knowledge: Xilinx HLS and SDS directives, FPGA Architecture
-  Environment: Xilinx Zedboard, Xilinx SDAccel/SDSoC IDE, Ubuntu
-  Target Program: Handwriteen Number/Hangul Recognizer DCNN program
-  Key Commitment: Optimizing code structure to increase parallel computation on FPGA accelerator
-  Paper:'FPGA-Based Deep Convolutional Neural Network Accelerator Design Techniques for the Handwritten Number Recognizer', Advanced Science Journal"
-

@@ -1,7 +1,0 @@
-# careers section data
-# if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name: Cots Technology
-  link: http://www.cotstech.com/
-  date: June 2018 - August 2018
-  job: Programming Internship
-
