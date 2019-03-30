@@ -4,9 +4,10 @@
 ####################################
 #
 title: Leonids
-email:
+email: cmejustsmile@gmail.com
 description: A simple and awesome blog theme powered by jekyll.
-url: # the base hostname & protocol for your site
+url: "https://cmejustsmile.github.io"
+baseurl: ""
 keywords: ["blog", "jekyll"]
 
 #
