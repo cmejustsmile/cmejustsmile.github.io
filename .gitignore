@@ -6,3 +6,5 @@ _drafts
 .ruby-version
 Gemfile.lock
 /**/*.swp
+/**/*.un~
+/**/*~
